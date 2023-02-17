@@ -227,7 +227,7 @@ measure the runtime and enter it into the table.
 
 |                            | `array`  | `list`  | `tuple`     | `deque`       |
 | -------------------------- | ---------| --------|------------ | ------------- |
-| `sequential_search_itr`    | 8.44 msec|1.16 msec| 1.21 msec   |  1.29         |
+| `sequential_search_itr`    | 8.44 msec|1.16 msec| 1.21 msec   |  1.29 msec    |
 | `sequential_search_itr2`   | 12.1 msec|2.35 msec| 2.49 msec   |  116 msec     |
 | `sequential_search_rec`    |  ---     | ---     |  ---        |  ---          |
 | `binary_search_itr`        | 9.12 usec|2.29 usec| 2.26 usec   |  175 usec     |
